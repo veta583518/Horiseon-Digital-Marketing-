@@ -19,7 +19,7 @@ This challenge will allow me to get more familiar with aspects of web developmen
 
 Below is a screenshot of the mock-up that was to be followed
 
-![Horiseon Digital Marketing Mock Up](./assets/images/Horiseon-mock-up)
+![Horiseon Digital Marketing Mock Up] (https://github.com/veta583518/Horiseon-Digital-Marketing-/blob/main/assets/images/Horiseon-mock-up.png)
 
 Link to deployed application
 [veta583518.github.io/Horiseon-Digital-Marketing](https://veta583518.github.io/Horiseon-Digital-Marketing-/)
